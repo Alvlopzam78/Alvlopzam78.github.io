@@ -12,4 +12,4 @@ Para mayor información seguir el siguiente link al repositorio de la clase: [Py
 
 
 
-[PySparkClass]: https://jekyllrb.com/docs/home](https://github.com/Alvlopzam78/PySpark.git
+[PySparkClass]: https://github.com/Alvlopzam78/PySpark.git
