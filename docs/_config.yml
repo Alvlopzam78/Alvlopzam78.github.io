@@ -28,7 +28,7 @@ title: Alvlopzam
 #github_username:  Alvlopzam78
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
